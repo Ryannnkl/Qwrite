@@ -1,12 +1,13 @@
 #ifndef CODEEDITOR_H
 #define CODEEDITOR_H
 
+#include <QPlainTextEdit>
 
-class codeeditor : public QPlainTextEdit
+class CodeEditor : public QPlainTextEdit
 {
     Q_OBJECT
 public:
-    codeeditor();
+    CodeEditor();
 };
 
 #endif // CODEEDITOR_H

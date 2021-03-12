@@ -1,6 +1,6 @@
 #include "codeeditor.h"
 
-codeeditor::codeeditor()
+CodeEditor::CodeEditor()
 {
 
 }
